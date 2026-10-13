@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sude!
 
-<!--
-**Sude-19/Sude-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer Engineering student at Başkent University.
 
-Here are some ideas to get you started:
+I'm currently learning C++ and developing my skills in Python, data science, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+- Artificial Intelligence and Machine Learning
+- Data Science
+- Software Development
+
+### Technologies I'm Learning
+- C
+- C++
+- Python
+- Git and GitHub
+
+### Connect with Me
+- LinkedIn: www.linkedin.com/in/sude-üresin-321104356
+- Medium: https://medium.com/@sude19/student-performance-veri-seti-ile-s%C4%B1nav-puan%C4%B1-tahmini-makine-%C3%B6%C4%9Frenmesi-ile-bir-uygulama-180a94c93657?sharedUserId=sude19
